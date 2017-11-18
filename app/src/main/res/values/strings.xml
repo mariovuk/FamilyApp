@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="google_api_key">AIzaSyCE0uqdMstJHU3rseGYJIu8WsnPwQRcmDc</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
